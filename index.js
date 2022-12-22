@@ -32,5 +32,3 @@ const owner = client.users.cache.get('708739244553797643') //ID DE LA PERSONA QU
 owner.send('El servidor acaba de llegar a 99 usuarios en canales de voz!')
 }
 })
-//======================================================================================
-// =======================================MODMAIL=======================================
